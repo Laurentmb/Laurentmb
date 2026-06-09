@@ -7,8 +7,8 @@ I am currently pursuing a Master's degree in Applied Mathematics at **ETH Zurich
 ---
 
 ### 🔬 Core Interests & Research
-* **Mathematical Finance:** Stochastic Calculus, Arbitrage-free pricing, Local volatility models, Stochastic volatility models,
-* **Machine Learning:** Generative Diffusion Models, Probabilistic AI, LLM, Guarantees for excess risk convergence, Time series forecasting
+* **Mathematical Finance:** Stochastic Calculus, Arbitrage-free pricing, Local volatility models, Stochastic volatility models.
+* **Machine Learning:** Generative Diffusion Models, Probabilistic AI, LLM, Guarantees for excess risk convergence, Time series forecasting.
 * **Current Focus:** My Master's thesis explores the links between Generative Models and Schrödinger Bridges for synthetic financial time series generation.
 
 ### 💻 Tech Stack & Tools

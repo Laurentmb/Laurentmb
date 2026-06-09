@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 ### 🎓 Applied Mathematics Master's Student | Quantitative Research & Machine Learning
 
-I am currently pursuing a Master's degree in Applied Mathematics at **ETH Zurich**, having previously completed my BSc in Mathematics at **EPFL** and an exchange year at **École Polytechnique**. I am passionate about bridging rigorous theoretical mathematics with practical implementations in quantitative finance.
+I am currently pursuing a Master's degree in Applied Mathematics at **ETH Zurich**, having previously completed my BSc in Mathematics at **EPFL** and an exchange year at **École Polytechnique**. I am passionate about bridging rigorous theoretical mathematics with practical implementations in machine learning.
 
 
 
 ---
 
 ### 🔬 Core Interests & Research
-* **Mathematical Finance:** Arbitrage-free pricing, Stochastic Calculus.
-* **Machine Learning:** Generative Diffusion Models, Probabilistic AI, LLM, 
+* **Mathematical Finance:** Arbitrage-free pricing, Local volatility models, Stochastic volatility models, Stochastic Calculus
+* * **Machine Learning:** Generative Diffusion Models, Probabilistic AI, LLM, Guarantees for excess risk convergence, Time series forecasting
 * **Current Focus:** My Master's thesis explores the links between Generative Models and Schrödinger Bridges for synthetic financial time series generation.
 
 ### 💻 Tech Stack & Tools
@@ -38,6 +38,6 @@ I am currently pursuing a Master's degree in Applied Mathematics at **ETH Zurich
 ---
 
 ### 📬 Let's Connect
-* **LinkedIn:** []
+* **LinkedIn:** [https://www.linkedin.com/in/laurent-martini-bonnet/]
 * **Email:** [laurentmb8@gmail.com]
 *"Striving to build robust algorithmic solutions backed by solid mathematical foundations."*
